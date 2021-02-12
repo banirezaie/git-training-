@@ -1,0 +1,15 @@
+/** @format */
+
+.fistElement {
+  margin: 4rem;
+  padding: 4rem;
+  background: pink;
+  color: green;
+}
+
+.secondElement {
+  margin: 2rem;
+  padding: 2rem;
+  background: black;
+  color: yellow;
+}
